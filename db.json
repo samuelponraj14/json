@@ -1,0 +1,71 @@
+{
+  "users": [
+    {
+      "id": "fa95",
+      "name": "admin",
+      "email": "admin@gmail.com",
+      "password": "admin"
+    },
+    {
+      "id": "10ca",
+      "name": "sam",
+      "email": "samuelponraj14@gmail.com",
+      "password": "sam"
+    },
+    {
+      "id": "be7d",
+      "name": "samuel",
+      "email": "samuelponraj14@gmail.com",
+      "password": "sam"
+    },
+    {
+      "id": "3be2",
+      "name": "samasd",
+      "email": "samuelponraj@gmail.com",
+      "password": "asas"
+    },
+    {
+      "id": "2c10",
+      "name": "as",
+      "email": "asd@gmail.com",
+      "password": "sd"
+    },
+    {
+      "id": "a5e8",
+      "name": "Samuel Ponraj",
+      "email": "samuelponraj1495@gmail.com",
+      "password": "sam"
+    },
+    {
+      "id": "5755",
+      "name": "Dhoni",
+      "email": "dhoni@gmail.com",
+      "password": "dhoni"
+    },
+    {
+      "id": "2f32",
+      "name": "virat",
+      "email": "virat@gmail.com",
+      "password": "virat"
+    },
+    {
+      "id": "e357",
+      "name": "rohit",
+      "email": "rohit@gmail.com",
+      "password": "rohit"
+    },
+    {
+      "id": "f822",
+      "name": "jack",
+      "email": "jack@gmail.com",
+      "password": "jack"
+    }
+  ],
+  "posts": [
+    {
+      "title": "",
+      "content": "",
+      "id": "1f4c"
+    }
+  ]
+}
